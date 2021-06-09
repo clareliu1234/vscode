@@ -1,0 +1,147 @@
+In an article published in Learning Environments Research, Lorsbach and
+Jinks (1999) drew attention to the lack of research relating psychosocial
+learning environments with student academic self-efficacy. The present
+article responds to that deficiency by reporting a correlational study of
+students’ perceptions of classroom environment and academic efficacy. While classroom environment research focuses on the perceptions of 
+class-room life, usually from the students’ perspective, academic efficacy 
+research
+draws attention to the importance of fostering self-belief and self-regula￾tory capabilities in students (Zimmerman, 1995). While many variables
+contribute to a student’s sense of academic efficacy (Bandura, 1997), it 
+is
+plausible that the quality of the classroom environment in a particular 
+sub-ject area is related to the perceived academic efficacy in that subject 
+area.
+JEFFREY P. DORMAN 244
+The present study aims to investigate the closeness of this relationship in
+secondary school mathematics classes.
+The present study makes two distinctive contributions to the field of
+learning environments. It is the first study to investigate the relationship
+between classroom environment and academic efficacy. Additionally, by
+using scales from two well-established instruments (viz. What Is Happen￾ing In This Classroom?, Constructivist Learning Environment Survey), it
+was possible to establish the unique and joint contributions of each instru￾ment to explaining academic efficacy. This process provides insights into
+the usefulness of both instruments in future research in this area. To pro￾vide a theoretical basis for this research, classroom environment and acad￾emic efficacy are reviewed briefly.
+2. BACKGROUND
+2.1. Classroom Environment
+Research conducted over the past 30 years has shown the quality of the
+classroom environment in schools to be a significant determinant of stu￾dent learning (Fraser, 1994, 1998a). That is, students learn better when they
+perceive the classroom environment positively. Numerous research stud￾ies have shown that student perceptions of the classroom environment
+account for appreciable amounts of variance in learning outcomes, often
+beyond that attributable to background student characteristics. For exam￾ple, Goh and Fraser (1998) used the Questionnaire on Teacher Interaction
+(QTI) (Wubbels & Levy, 1993) to establish associations between student
+outcomes and perceived patterns of teacher-student interaction in primary
+school mathematics classes in Singapore. Other studies have used class￾room environment scales as dependent variables in investigating varia￾tions in environment across different settings. Studies reviewed by Fraser
+(1998b) have shown that classroom environment varies according to school
+type (e.g. coeducational schools, boys’ schools and girls’ schools), year
+level and subject area. Some areas of contemporary classroom environ￾ment research include investigating special education classrooms in Eng￾land (Adams, 2000), studying science classroom environment in Korea
+(Kim, Fisher & Fraser, 2000) and defining differences between city and
+country students’ perceptions of the learning environment (Waldrip &
+Fisher, 2000).
+The learning environment field has developed rapidly with an array of
+validated instruments and research in at least 12 domains (e.g. evaluation
+of educational innovations, comparison of actual and preferred environ-
+CLASSROOM ENVIRONMENT AND ACADEMIC EFFICACY 245
+ments, and changes in classroom environment during the transition from
+primary to secondary school) (see Fraser, 1998b). Typically, empirical stud￾ies have employed these instruments or contextually modified derivatives
+to assess the particular environment under investigation. For example, the
+Catholic School Classroom Environment Questionnaire (CSCEQ) was
+developed specifically to assess the environment in Australian Catholic
+school classrooms (Dorman, 1999). The present study builds upon and
+extends the learning environment field by studying associations between
+classroom environment and academic efficacy.
+2.2. Academic Efficacy
+The broad psychological concept of self-efficacy has been the subject of
+much theorising and research over the past two decades (see e.g. Bandura,
+1997; Schunk, 1995). Within this field, one particularly strong area of in￾terest is that of academic efficacy, which refers to personal judgements of
+one’s capabilities to organise and execute courses of action to attain des￾ignated types of educational performances (Zimmerman, 1995). Consist￾ent with self-efficacy theory, academic efficacy involves judgements on
+capabilities to perform tasks in specific academic domains. Accordingly,
+within a classroom learning environment, measures of academic efficacy
+must assess students’ perceptions of their competence to do specific ac￾tivities. It is therefore not surprising to find that much academic efficacy
+research has focused on specific areas of the formal school curriculum.
+For example, Pajares (1996) investigated academic efficacy at mathemat￾ics-related tasks. Similarly, Schunk and Rice (1993) studied self-efficacy
+among students receiving remedial educational services. Recently, Zeldin
+and Pajares (2000) explored the self-efficacy beliefs of women in math￾ematical, scientific and technological careers.
+Research studies have provided consistent, convincing evidence that
+academic efficacy is positively related to academic motivation (e.g. Schunk
+& Hanson, 1985), persistence (Lyman, Prentice-Dunn, Wilson & Bonfilio,
+1984), memory performance (Berry, 1987), and academic performance
+(Schunk, 1989). Multon, Brown and Lent (1991) performed a meta-analysis
+of research studies that related academic efficacy to the attainment of bas￾ic cognitive skills, coursework, and standardised achievement tests. This
+analysis revealed that academic efficacy is a consistent positive predictor
+of academic achievement. However, the influence of academic efficacy
+was not uniform. Whereas the strongest effect was for the influence of
+academic efficacy on basic cognitive skills, the weakest effect was for the
+influence of academic efficacy on standardised tests. According to Schunk
+JEFFREY P. DORMAN 246
+(1996), the relationship between academic efficacy and both motivation
+and effort is reciprocal. That is, motivation and effort influence, and are
+influenced by, academic efficacy. This suggests a type of multiplier effect:
+as students perceive their progress in acquiring skills and gaining know￾ledge, their academic efficacy for further learning is enhanced. Schunk
+(1996) notes that academic efficacy influences persistence provided that
+the task is sufficiently difficult. In this situation, low academic efficacy
+students opt out whereas students with high academic efficacy persevere
+with the task.
+According to Bandura (1997), there are four sources of self-efficacy:
+enactive mastery experiences, vicarious experiences, verbal persuasion and
+physiological and affective states. Analogously, Schunk (1996) believes
+that students appraise their academic efficacy through performance, vicari￾ous (observational) experiences, forms of persuasion and physiological
+reactions. While not explicitly recognised by efficacy theorists, some of
+these sources can be attributed to the psychosocial learning environment
+that students experience in their schools and classrooms. For example,
+students in classrooms regularly observe their peers performing tasks suc￾cessfully and unsuccessfully. Even a cursory review of the learning envir￾onment literature of the past three decades indicates that the learning
+environment is not an inert contributor to the sources of academic efficacy
+identified by Bandura and Schunk. Indeed it is striking that academic ef￾ficacy theory has not recognised the potential of psychosocial environment
+in explaining academic efficacy. The present study investigated this gap
+in knowledge.
+3. THE PRESENT RESEARCH
+3.1. Aims
+The study’s three aims were:
+• to validate scales from the What Is Happening In This Classroom?
+and Constructivist Learning Environment Survey questionnaires in
+mathematics classes in Australia;
+• to examine associations between students’ perceptions of mathemat￾ics classroom environment and their perceptions of academic efficacy
+at mathematical tasks;
+• to establish whether scales of the What Is Happening In This Class￾room? and the Constructivist Learning Environment Survey account
+for unique variance in the Academic Efficacy Scale.
+CLASSROOM ENVIRONMENT AND ACADEMIC EFFICACY 247
+3.2. Sample
+The identifiable sample employed in this study consisted of 1055 students
+drawn from nine Australian secondary schools. Students from Grades 8,
+10 and 12 participated in the study. Table I describes the sample. It should
+be noted that students in each school were grouped according to year level.
+The sample consisted of 27 school year groups. This grouping of students
+was important because subsequent analyses used the school year group as
+the unit of analysis.
+3.3. Assessment of Classroom Environment
+An important principle of the present study was to provide a comprehen￾sive, parsimonious assessment of contemporary classroom environment.
+Significant recent work that attempts to bring parsimony to the field of
+learning environments by combining the most salient scales from existing
+questionnaires has produced an instrument called the What Is Happening
+In This Classroom? questionnaire (WIHIC) (Aldridge & Fraser, 2000;
+Fraser, 1998b). While the WIHIC is comprehensive, it is not designed to
+assess constructivist classroom environments. In a constructivist environ￾ment, meaningful learning is a cognitive process in which students make
+sense of the world in relation to the knowledge which they have constructed.
+The Constructivist Learning Environment Survey (CLES) (Fraser, 1998b;
+Taylor, Fraser & Fisher, 1997) was developed to assist researchers to as￾sess the constructivist dimensions of classrooms.
+To provide a comprehensive assessment of classroom environment and
+yet keep the study manageable, seven scales from the WIHIC and three
+scales from the CLES were chosen. Based on scale descriptions provided
+by the WIHIC and CLES developers, it was thought that the three CLES
+scales complemented the seven WIHIC scales. From the original 56-item
+WIHIC, 42 items from its seven a priori scales were selected. From the
+CLES, 18 items from three scales were selected. Table II shows each of
+TABLE I
+Description of Identifiable Sample by Gender and Year Level
+Level Sample size
+Male Female Total
+Year 8 191 172 363
+Year 10 172 230 402
+Year 12 134 156 290
+Total 497 558 1055
+JEFFREY P. DORMAN 248
+these six-item scales and their common-sense descriptions. Each item used
+a five-point response format (viz. Almost Never, Seldom, Sometimes,
+Often, Almost Always). Additionally, Table II shows the classification of
+each scale according to Moos’s (1974) three general categories for conceptualising human environments (viz. Relationship, Personal Development, and System Maintenance and System Change).
+3.4. Assessment of Academic Efficacy
+Perceived academic efficacy refers to students’ judgements of their ability to master the academic tasks that they are given in their classrooms. A
+seven-item scale using items developed by Midgley and Urdan (1995)
